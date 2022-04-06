@@ -12,7 +12,7 @@
 <br />
 <br />
 
-Hi there, I'm **Cristian Rengifo**, a **Colombian coffe drinker** ( Ranked Top 1% Worldwide 🌍😂 ) and a **Software Developer** 🚀 from Cali - Colombia, living in Medellín. 
+Hi there, I'm **Cristian Rengifo**, a **colombian coffe drinker** ( Ranked Top 1% Worldwide 🌍 😂 ) and a **Software Developer** 🚀 from Cali - Colombia, living in Medellín. 
 
 <br />
 <br />
