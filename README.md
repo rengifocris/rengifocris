@@ -26,12 +26,12 @@ Currently, I'm a **Senior software developer and mentor** at 👨🏽‍💻 [@l
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working in Software development for the logistics business at [@leanTech](https://www.leangroup.com/solutions/leantech);
-- 🌱 I’m currently learning Software architecture and IoT (wanna have my appartment sophisticated, started study IoT by my own 🙈🧑🏽‍💻);
-- 🔭 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..., I do consider my self someone apassionate about the continuous learning about technology, sharing and acquired knowledge with mates;
-- 💬 Ask me about software development with Java and JavaScript or anythnig, if I can help, I'll be happy to;
-- 📫 How to reach me: just send me an email rengfocris@gmail.com;
-- ⚡ Fun fact: I love to spend time going to different towns and learn a lot about every single experience;
+- 👨🏽‍💻 I’m currently working in Software development for the logistics business at [@leanTech](https://www.leangroup.com/solutions/leantech)***;***
+- 🌱 I’m currently learning Software architecture and IoT (wanna have my appartment sophisticated, started study IoT by my own 🙈🧑🏽‍💻)***;***
+- 🔭 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..., I do consider my self someone apassionate about the continuous learning about technology, sharing and acquired knowledge with mates ***;***
+- 💬 Ask me about software development with Java and JavaScript or anythnig, if I can help, I'll be happy to ***;***
+- 📫 How to reach me: just send me an email rengfocris@gmail.com ***;***
+- ⚡ Fun fact: I love to spend time going to different towns and learn a lot about every single experience ***;***
 
 **Languages and Tools:**  
 
