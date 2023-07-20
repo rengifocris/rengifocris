@@ -26,7 +26,7 @@ Currently, I'm a **Senior software developer and mentor**  👨🏽‍💻
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working in Software development***;***
+- 👨🏽‍💻 I’m currently working in Software development ***;***
 - 🌱 I’m currently learning Software architecture and IoT (wanna have my apartment sophisticated, started studying IoT on my own 🙈🧑🏽‍💻)***;***
 - 🔭 My interests are Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..., I do consider myself someone passionate about continuously learning about technology, sharing and acquiring knowledge with mates ***;***
 - 💬 Ask me about software development with Java and JavaScript or anything, if I can help, I'll be happy to ***;***
