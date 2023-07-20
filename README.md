@@ -18,7 +18,7 @@ Hi there, I'm **Cristian Rengifo**, a **colombian coffe drinker** ( Ranked Top 1
 ah!, also a **Software Developer** 🚀 from Cali - Colombia, living in Medellín. 
 <br />
 
-Currently, I'm a **Senior software developer and mentor** at 👨🏽‍💻 [@leanTech](https://www.leangroup.com/solutions/leantech)
+Currently, I'm a **Senior software developer and mentor**  👨🏽‍💻
 <br />
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" />
