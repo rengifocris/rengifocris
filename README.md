@@ -1,50 +1,55 @@
-### Hey 👋, I'm Cris
+## Hey there! 
+### 👋 I'm Cristian
 
-<a href="https://www.linkedin.com/in/cristian-rengifo-esparragoza/">
-  <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/reng.cris/">
-  <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://twitter.com/rengifocris_dev">
-  <img align="left" alt="Mehdi's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<br />
-<br />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-cristian--rengifo--esparragoza-blue)](https://www.linkedin.com/in/cristian-rengifo-esparragoza/)
+[![Instagram](https://img.shields.io/badge/Instagram-reng.cris-orange)](https://www.instagram.com/reng.cris/)
+[![Twitter](https://img.shields.io/badge/Twitter-rengifocris__dev-blue)](https://twitter.com/rengifocris_dev)
 
-Hi there, I'm **Cristian Rengifo**, a **colombian coffe drinker** ( Ranked Top 1% Worldwide 🌍 😂 ) 
-<br />
+Welcome to my GitHub profile! I'm Cristian, a Colombian software developer based in Medellín, with a passion for building innovative solutions and mentoring others in their tech journey.
 
-ah!, also a **Software Developer** 🚀 from Cali - Colombia, living in Medellín. 
-<br />
+#### About Me
 
-Currently, I'm a **Senior software developer and mentor**  👨🏽‍💻
-<br />
+- 💻 Senior Software Developer with a knack for problem-solving and collaboration.
+- ☕ Colombian coffee aficionado ranked in the Top 1% Worldwide (just kidding! 😄).
+- 🌱 Currently delving into Software Architecture and IoT to turn my apartment into a smart home.
+- 🔭 Interested in Natural Language Processing, Computer Vision, and Reinforcement Learning.
+- 💬 Feel free to reach out to me for discussions on Java, JavaScript, or anything tech-related.
+- 📫 You can contact me via email at rengfocris@gmail.com.
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" />
+#### Fun Facts
 
+- ⚡ Fun Fact: I love exploring new towns and immersing myself in diverse experiences.
+- 🚀 Constantly seeking opportunities to learn, share knowledge, and grow both personally and professionally.
 
-**Talking about Personal Stuffs:**
+#### Technologies and Tools
 
-- 👨🏽‍💻 I’m currently working in Software development ***;***
-- 🌱 I’m currently learning Software architecture and IoT (wanna have my apartment sophisticated, started studying IoT on my own 🙈🧑🏽‍💻)***;***
-- 🔭 My interests are Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..., I do consider myself someone passionate about continuously learning about technology, sharing and acquiring knowledge with mates ***;***
-- 💬 Ask me about software development with Java and JavaScript or anything, if I can help, I'll be happy to ***;***
-- 📫 How to reach me: just send me an email rengfocris@gmail.com ***;***
-- ⚡ Fun fact: I love to spend time going to different towns and learn a lot about every single experience ***;***
+I specialize in:
 
-**Languages and Tools:**  
+![Java](https://img.shields.io/badge/-Java-orange)
+![Python](https://img.shields.io/badge/-Python-blue)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![Node.js](https://img.shields.io/badge/-Node.js-green)
+![Vue.js](https://img.shields.io/badge/-Vue.js-brightgreen)
+![React](https://img.shields.io/badge/-React-blueviolet)
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+And work with databases like:
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+![MySQL](https://img.shields.io/badge/-MySQL-lightgray)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue)
+![MongoDB](https://img.shields.io/badge/-MongoDB-green)
+![Firebase](https://img.shields.io/badge/-Firebase-yellow)
+
+I'm also proficient in version control with Git and enjoy working in the terminal.
+
+#### Language Skills
+
+I'm fluent in:
+
+- ![UK](https://flagpedia.net/data/flags/mini/gb.png) English
+- ![Colombia](https://flagpedia.net/data/flags/mini/co.png) Spanish
+
+I also have elementary proficiency in:
+
+- ![Japan](https://flagpedia.net/data/flags/mini/jp.png) Japanese
+
+Let's connect and create something amazing together! 😊
