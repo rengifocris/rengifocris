@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm Cristian, a Colombian software developer based
 
 #### About Me
 
-- 💻 Senior Software Developer with a knack for problem-solving and collaboration.
+- 💻 Software Developer with a knack for problem-solving and collaboration.
 - ☕ Colombian coffee aficionado ranked in the Top 1% Worldwide (just kidding! 😄).
 - 🌱 Currently delving into Software Architecture and IoT to turn my apartment into a smart home.
 - 🔭 Interested in Natural Language Processing, Computer Vision, and Reinforcement Learning.
